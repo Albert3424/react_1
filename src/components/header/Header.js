@@ -1,4 +1,4 @@
-import logo from './logo.svg'   //Scalable Vector Graphics
+import logo from '../../logo.svg'
 
 function Header() {
     return
@@ -19,3 +19,5 @@ function Header() {
         </header>
     )
 }
+
+export default Header;
